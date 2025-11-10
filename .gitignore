@@ -1,0 +1,21 @@
+# VSCode settings
+.vscode/
+
+# Colcon / ROS2 build files
+build/
+install/
+log/
+*.build_by
+COLCON_IGNORE
+*.cpython
+
+# Shell scripts
+*.bash
+
+# Common generated files
+*.xml
+*.txt
+
+# Ignore egg-info (Python package metadata)
+**/*.egg-info/
+**/PKG-INFO

@@ -1,0 +1,19 @@
+[0.582s] Invoking command in '/CPE416/ros_ws/src/build/lab1': PYTHONPATH=/CPE416/ros_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /CPE416/ros_ws/src/build/lab1/build --no-deps symlink_data --force
+[0.768s] running develop
+[0.859s] running egg_info
+[0.860s] writing lab1.egg-info/PKG-INFO
+[0.860s] writing dependency_links to lab1.egg-info/dependency_links.txt
+[0.860s] writing entry points to lab1.egg-info/entry_points.txt
+[0.860s] writing requirements to lab1.egg-info/requires.txt
+[0.860s] writing top-level names to lab1.egg-info/top_level.txt
+[0.862s] reading manifest file 'lab1.egg-info/SOURCES.txt'
+[0.864s] writing manifest file 'lab1.egg-info/SOURCES.txt'
+[0.865s] running build_ext
+[0.865s] Creating /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1.egg-link (link to .)
+[0.866s] Installing talk = lab1.talker:mainlisten script to /CPE416/ros_ws/src/install/lab1/lib/lab1
+[0.866s] 
+[0.867s] Installed /CPE416/ros_ws/src/build/lab1
+[0.867s] running symlink_data
+[0.867s] symbolically linking /CPE416/ros_ws/src/build/lab1/resource/lab1 -> /CPE416/ros_ws/src/install/lab1/share/ament_index/resource_index/packages
+[0.868s] symbolically linking /CPE416/ros_ws/src/build/lab1/package.xml -> /CPE416/ros_ws/src/install/lab1/share/lab1
+[0.893s] Invoked command in '/CPE416/ros_ws/src/build/lab1' returned '0': PYTHONPATH=/CPE416/ros_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /CPE416/ros_ws/src/build/lab1/build --no-deps symlink_data --force

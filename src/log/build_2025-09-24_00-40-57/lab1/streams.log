@@ -1,0 +1,40 @@
+[0.837s] Invoking command in '/CPE416/ros_ws/src/lab1': PYTHONPATH=/CPE416/ros_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lab1 build --build-base /CPE416/ros_ws/src/build/lab1/build install --record /CPE416/ros_ws/src/build/lab1/install.log --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.004s] creating ../build/lab1/lab1.egg-info
+[1.005s] writing ../build/lab1/lab1.egg-info/PKG-INFO
+[1.006s] writing dependency_links to ../build/lab1/lab1.egg-info/dependency_links.txt
+[1.007s] writing entry points to ../build/lab1/lab1.egg-info/entry_points.txt
+[1.008s] writing requirements to ../build/lab1/lab1.egg-info/requires.txt
+[1.008s] writing top-level names to ../build/lab1/lab1.egg-info/top_level.txt
+[1.009s] writing manifest file '../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.010s] reading manifest file '../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.011s] writing manifest file '../build/lab1/lab1.egg-info/SOURCES.txt'
+[1.012s] running build
+[1.012s] running build_py
+[1.013s] creating /CPE416/ros_ws/src/build/lab1/build
+[1.013s] creating /CPE416/ros_ws/src/build/lab1/build/lib
+[1.014s] creating /CPE416/ros_ws/src/build/lab1/build/lib/lab1
+[1.014s] copying lab1/listener.py -> /CPE416/ros_ws/src/build/lab1/build/lib/lab1
+[1.015s] copying lab1/__init__.py -> /CPE416/ros_ws/src/build/lab1/build/lib/lab1
+[1.015s] copying lab1/talker.py -> /CPE416/ros_ws/src/build/lab1/build/lib/lab1
+[1.015s] running install
+[1.016s] running install_lib
+[1.017s] creating /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.017s] copying /CPE416/ros_ws/src/build/lab1/build/lib/lab1/listener.py -> /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.017s] copying /CPE416/ros_ws/src/build/lab1/build/lib/lab1/__init__.py -> /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.019s] copying /CPE416/ros_ws/src/build/lab1/build/lib/lab1/talker.py -> /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1
+[1.019s] byte-compiling /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1/listener.py to listener.cpython-310.pyc
+[1.023s] byte-compiling /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1/__init__.py to __init__.cpython-310.pyc
+[1.024s] byte-compiling /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1/talker.py to talker.cpython-310.pyc
+[1.025s] running install_data
+[1.025s] creating /CPE416/ros_ws/src/install/lab1/share/ament_index
+[1.026s] creating /CPE416/ros_ws/src/install/lab1/share/ament_index/resource_index
+[1.027s] creating /CPE416/ros_ws/src/install/lab1/share/ament_index/resource_index/packages
+[1.027s] copying resource/lab1 -> /CPE416/ros_ws/src/install/lab1/share/ament_index/resource_index/packages
+[1.027s] copying package.xml -> /CPE416/ros_ws/src/install/lab1/share/lab1
+[1.028s] running install_egg_info
+[1.030s] Copying ../build/lab1/lab1.egg-info to /CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages/lab1-0.0.0-py3.10.egg-info
+[1.036s] running install_scripts
+[1.056s] Installing exec script to /CPE416/ros_ws/src/install/lab1/lib/lab1
+[1.058s] writing list of installed files to '/CPE416/ros_ws/src/build/lab1/install.log'
+[1.080s] Invoked command in '/CPE416/ros_ws/src/lab1' returned '0': PYTHONPATH=/CPE416/ros_ws/src/build/lab1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/lab1 build --build-base /CPE416/ros_ws/src/build/lab1/build install --record /CPE416/ros_ws/src/build/lab1/install.log --single-version-externally-managed install_data

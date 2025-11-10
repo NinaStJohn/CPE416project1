@@ -1,0 +1,4 @@
+[console_scripts]
+squared = lab1.listener:main
+talk = lab1.talker:main
+

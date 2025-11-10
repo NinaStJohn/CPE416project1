@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+lab2/__init__.py
+lab2/draw_spiral.py
+lab2/draw_square.py
+lab2/open_loop.py
+lab2.egg-info/PKG-INFO
+lab2.egg-info/SOURCES.txt
+lab2.egg-info/dependency_links.txt
+lab2.egg-info/entry_points.txt
+lab2.egg-info/requires.txt
+lab2.egg-info/top_level.txt
+lab2.egg-info/zip-safe
+resource/lab2

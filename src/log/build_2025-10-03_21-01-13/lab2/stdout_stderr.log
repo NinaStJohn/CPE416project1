@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing lab2.egg-info/PKG-INFO
+writing dependency_links to lab2.egg-info/dependency_links.txt
+writing entry points to lab2.egg-info/entry_points.txt
+writing requirements to lab2.egg-info/requires.txt
+writing top-level names to lab2.egg-info/top_level.txt
+reading manifest file 'lab2.egg-info/SOURCES.txt'
+writing manifest file 'lab2.egg-info/SOURCES.txt'
+running build_ext
+Creating /CPE416/ros_ws/src/install/lab2/lib/python3.10/site-packages/lab2.egg-link (link to .)
+Installing draw_spiral script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+Installing draw_square script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+Installing open_loop script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+
+Installed /CPE416/ros_ws/src/build/lab2
+running symlink_data

@@ -1,0 +1,19 @@
+[1.157s] Invoking command in '/CPE416/ros_ws/src/build/lab2': PYTHONPATH=/CPE416/ros_ws/src/build/lab2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /CPE416/ros_ws/src/build/lab2/build --no-deps symlink_data
+[1.450s] running develop
+[1.576s] running egg_info
+[1.576s] writing lab2.egg-info/PKG-INFO
+[1.576s] writing dependency_links to lab2.egg-info/dependency_links.txt
+[1.576s] writing entry points to lab2.egg-info/entry_points.txt
+[1.592s] writing requirements to lab2.egg-info/requires.txt
+[1.592s] writing top-level names to lab2.egg-info/top_level.txt
+[1.594s] reading manifest file 'lab2.egg-info/SOURCES.txt'
+[1.596s] writing manifest file 'lab2.egg-info/SOURCES.txt'
+[1.597s] running build_ext
+[1.598s] Creating /CPE416/ros_ws/src/install/lab2/lib/python3.10/site-packages/lab2.egg-link (link to .)
+[1.599s] Installing draw_spiral script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+[1.600s] Installing draw_square script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+[1.600s] Installing open_loop script to /CPE416/ros_ws/src/install/lab2/lib/lab2
+[1.601s] 
+[1.601s] Installed /CPE416/ros_ws/src/build/lab2
+[1.601s] running symlink_data
+[1.688s] Invoked command in '/CPE416/ros_ws/src/build/lab2' returned '0': PYTHONPATH=/CPE416/ros_ws/src/build/lab2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/CPE416/ros_ws/src/install/lab2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /CPE416/ros_ws/src/build/lab2/build --no-deps symlink_data
