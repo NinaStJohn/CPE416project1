@@ -1,7 +1,7 @@
 # VSCode settings
 .vscode/
 
-# Colcon / ROS2 build files
+# Colcon / ROS2 build artifacts
 build/
 install/
 log/
@@ -9,13 +9,18 @@ log/
 COLCON_IGNORE
 *.cpython
 
-# Shell scripts
+# Shell scripts (optional — remove if you want to track scripts)
 *.bash
 
-# Common generated files
+# Common generated or intermediate files
 *.xml
 *.txt
 
-# Ignore egg-info (Python package metadata)
+# Python package metadata
 **/*.egg-info/
 **/PKG-INFO
+
+# src build artifacts
+src/build/
+src/install/
+src/log/
